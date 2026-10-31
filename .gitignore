@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+data/
+embeddings/
+logs/
+lightning_logs/
+wandb/
+checkpoints_retrained/
+*.ckpt
+*.csv

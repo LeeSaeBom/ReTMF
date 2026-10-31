@@ -1,0 +1,12 @@
+# Tested with Python 3.10 (see README for the exact environments).
+torch==2.8.0
+torchvision==0.23.0
+pytorch-lightning==2.6.6
+transformers==4.46.0
+open_clip_torch==3.3.0
+timm==1.0.28
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+pillow
+tqdm
